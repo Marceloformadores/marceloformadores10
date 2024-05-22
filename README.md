@@ -3,6 +3,7 @@
     <head><meta charset= "UTF-8">
     <title>Barbearia Alura</title></head>
     <body> 
+      <p>Sobre a Barbearia Alura</p>  
         <h1 style="text-align">Sobre a Barbearia Alura</h1>>
     <p>Localizada no coração da cidade, a <strong>Barbearia Alura</strong> traz que há de melhor para seu cabelo e barba. 
     </p>
